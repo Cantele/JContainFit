@@ -6,17 +6,17 @@ Installazione
 
 <script src="/path/to/jquery.JContainFit.min.js"></script>
 
-Utilizzo
-		$(".foto").JContainFit();
+Utilizzo:
 
-For more information
+$(".foto").JContainFit();
 
-    Plugin homepage and documentation
+Per maggiori informazioni:
 
-Requirements
+Requirements:
 
 jQuery version 1.6.0 or higher
-Browser compatibility
+
+Browser compatibility:
 
     Internet Explorer 8+
     Firefox
@@ -26,7 +26,7 @@ Browser compatibility
     iOS
     Android
     Windows Phone
-
+    
 License
 
 MIT License (MIT)
